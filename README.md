@@ -74,4 +74,6 @@ If the primary **DarkDock link** is temporarily unavailable, utilize **DarkDock 
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/branding/blur.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  Thursday 26 June 2025 Link is live again
+
+
+Update:  04.07.2025 04:25:03 URLs repaired
