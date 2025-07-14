@@ -78,4 +78,6 @@ If the primary **DarkDock link** is temporarily unavailable, utilize **DarkDock 
 
 
 
-Update: URL refresh
+
+
+Update:  14 July 2025 Link validation
