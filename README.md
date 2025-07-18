@@ -80,4 +80,6 @@ If the primary **DarkDock link** is temporarily unavailable, utilize **DarkDock 
 
 
 
-Update:  14 July 2025 Link validation
+
+
+Update:  07/18/2025 14-49 link is live and clickable
