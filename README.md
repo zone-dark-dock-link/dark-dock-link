@@ -82,4 +82,6 @@ If the primary **DarkDock link** is temporarily unavailable, utilize **DarkDock 
 
 
 
-Update:  07/18/2025 14-49 link is live and clickable
+
+
+Update: link is back up and running
